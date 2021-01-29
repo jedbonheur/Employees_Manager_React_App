@@ -1,6 +1,6 @@
 # Employee Manager React App
 
-This a small Web App For _Practice Purpose_
+This a small Web App For _Only For Practice Purpose_
 
 ### App scren shot
 <img src="ReadmeInfo/EmployeesPage.PNG" width="500">
