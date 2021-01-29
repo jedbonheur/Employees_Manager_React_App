@@ -1,7 +1,8 @@
 # Employee Manager React App
 
 This a small Web App For _Practice Purpose_
-
+### App scren shot
+<img src="ReadmeInfo/EmployeesPage.PNG" width="500">
 ### You will Learn 
 
 * React Basics
@@ -10,15 +11,14 @@ This a small Web App For _Practice Purpose_
 * Learn to use install, Send Request Get, Post [Axios](https://www.npmjs.com/package/axios)
 * React Routing Using  [React Router](https://reactrouter.com/)
 * Nested Routing
+### App scren shot
+<img src="ReadmeInfo/Employee.PNG" width="300">
 
 ### Requirement 
 * Basic Knowlende of React
 * Text editor example: [VSCODE] (https://code.visualstudio.com/) 
 * Basic Terminal Knowledge
 * Json Basic Knowledge
-### App scren shot
-<img src="ReadmeInfo/EmployeesPage.PNG" width="500">
-<img src="ReadmeInfo/Employee.PNG" width="300">
 
 ### Json File with Data Provided
 
