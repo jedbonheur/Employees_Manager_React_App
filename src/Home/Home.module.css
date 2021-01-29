@@ -1,0 +1,28 @@
+.Navigations {
+ width: 100%;
+ text-align: center;
+}.Navigations ul {
+    list-style-type: none;
+    margin: 20px 0px;
+    text-align: center;
+}.Navigations ul li {
+    display: inline-block;
+    padding: 4px 20px;
+}.Navigations ul li a {
+    text-decoration: none;
+    color: black;
+}.Navigations a:hover,
+ .Navigations a:active,
+ .Navigations a.active  {
+
+  color:#ba3900;
+ }.Main {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+ 
