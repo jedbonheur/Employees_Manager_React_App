@@ -17,8 +17,8 @@ This a small Web App For _Practice Purpose_
 * Basic Terminal Knowledge
 * Json Basic Knowledge
 ### App scren shot
-![App Screen Shot 1](ReadmeInfo/EmployeesPage.PNG)
-![App Screen Shot 1](ReadmeInfo/Employee.PNG)
+<img src="ReadmeInfo/EmployeesPage.PNG" width="500">
+<img src="ReadmeInfo/Employee.PNG" width="300">
 
 ### Json File with Data Provided
 
