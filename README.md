@@ -1,8 +1,10 @@
 # Employee Manager React App
 
 This a small Web App For _Practice Purpose_
+
 ### App scren shot
 <img src="ReadmeInfo/EmployeesPage.PNG" width="500">
+
 ### You will Learn 
 
 * React Basics
