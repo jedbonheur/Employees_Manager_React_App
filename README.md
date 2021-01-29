@@ -16,9 +16,9 @@ This a small Web App For _Practice Purpose_
 * Text editor example: [VSCODE] (https://code.visualstudio.com/) 
 * Basic Terminal Knowledge
 * Json Basic Knowledge
-
-![App Screen Shot 1](ReadmeInfo/EmployeesPage.png)
-![App Screen Shot 1](ReadmeInfo/Employee.png)
+### App scren shot
+![App Screen Shot 1](ReadmeInfo/EmployeesPage.PNG)
+![App Screen Shot 1](ReadmeInfo/Employee.PNG)
 
 ### Json File with Data Provided
 
