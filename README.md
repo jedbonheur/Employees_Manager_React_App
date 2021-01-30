@@ -18,7 +18,7 @@ This a small Web App For _Only For Practice Purpose_
 
 ### Requirement 
 * Basic Knowlende of React
-* Text editor example: [VSCODE] (https://code.visualstudio.com/) 
+* Text editor example: [VSCODE](https://code.visualstudio.com/) 
 * Basic Terminal Knowledge
 * Json Basic Knowledge
 
