@@ -22,7 +22,7 @@ This a small Web App For _Only For Practice Purpose_
 * Basic Terminal Knowledge
 * Json Basic Knowledge
 
-### Json File with Data Provided
+### Json File with Data Provided organized for you
 
 There is Jason file with data in _ReadmeInfo/EmployeeData.json_ provide you will have to upload it 
 to the FireBase Realtime database
